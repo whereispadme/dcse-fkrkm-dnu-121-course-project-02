@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/mainwindow_icon.png</file>
+        <file>icons/hide_eye.png</file>
+        <file>icons/visible_eye.png</file>
+        <file>icons/rootapplywindow_icon.png</file>
+        <file>icons/reset_icon.png</file>
+        <file>icons/adminwindow_icon.png</file>
+        <file>icons/authwindow_icon.png</file>
+        <file>icons/add_icon.png</file>
+        <file>icons/search_icon.png</file>
+        <file>icons/remove_icon.png</file>
+        <file>icons/edit_profile_icon.png</file>
+        <file>icons/edit_icon.png</file>
+        <file>icons/home_icon.png</file>
+        <file>icons/settelement_icon.png</file>
+        <file>icons/evict_icon.png</file>
+        <file>icons/badge_icon.png</file>
+        <file>icons/stats_icon.png</file>
+    </qresource>
+</RCC>
